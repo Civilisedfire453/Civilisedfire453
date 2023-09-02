@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Ved Lomber, a second year student passionate a
 
 ### 🚀 Current Project: C++ Repository
 
-I am currently working on a C++ project, which you can find here: [C++ Repository](https://github.com/Civilisedfire453/C-Plus-Plus). This project is aimed at everyone who is interested to learn C++ or looking to revise over cores consepts. It showcases my skills in C++ programming.
+I am currently working on a C++ project, which you can find here: [C++ Repository](https://github.com/Civilisedfire453/C-Plus-Plus). This project is aimed at everyone who is interested to learn C++ or looking to revise over core consepts. It showcases my skills in C++ programming.
 
 ### 📚 Technologies & Tools
 
