@@ -33,7 +33,7 @@ My skill set includes a wide range of technologies and tools:
 Feel free to reach out to me through these channels:
 
 - 📧 Email: [vml152@uowmail.edu.au]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ved-lomber-8150a1214/)
+- 💼 LinkedIn: [Ved Lomber](https://www.linkedin.com/in/ved-lomber-8150a1214/)
 
 
 ### 🌱 Always Learning
