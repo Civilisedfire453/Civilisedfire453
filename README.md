@@ -21,8 +21,6 @@ My skill set includes a wide range of technologies and tools:
 
 - 🖥️ **Programming Languages**: Java, Python, C++, HTML, SQL, R
 - 📊 **Database Management**: Oracle SQL, PL/SQL, MongoDB
-- 🔐 **Security Frameworks**: OWASP, NIST Cybersecurity Framework
-- 🌐 **Web Application Security**: OWASP Top Ten, Burp Suite
 - 🌐 **Web Development**: HTML, CSS, JavaScript
 - 💼 **Version Control**: Git
 - 📊 **Data Analysis**: Pandas, Matplotlib
