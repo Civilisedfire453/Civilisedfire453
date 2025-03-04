@@ -1,65 +1,86 @@
-# Ved Lomber
+# **Ved Lomber**  
 
-## 👋 Hello, World!
+## 👋 Hello, World!  
 
-Welcome to my GitHub profile! I'm Ved Lomber, a second year student passionate about cybersecurity and a programmer. I am dedicated to creating innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I'm **Ved Lomber**, a **cybersecurity enthusiast and programmer**, currently pursuing a **Master of Cyber Security Analysis and Intelligence at Macquarie University**. I have a **strong foundation in software development, cybersecurity, and database management** and love working on projects that **combine security, automation, and problem-solving**.  
 
-### 🌟 What I Do
-- 💻 **Programming**: I've spent significant time honing my skills in a variety of programming languages, including Java, Python, C++, and more.
+---
 
-- 📊 **Database Management**: I'm experienced in working with relational databases like Oracle SQL and PL/SQL, as well as NoSQL databases like MongoDB.
+## 🌟 **What I Do**  
 
-- 🌐 **Web Development**: I'm well-versed in HTML for web development and have created web applications.
+- 🔐 **Cybersecurity**: Passionate about **ethical hacking, penetration testing, and security automation**.  
+- 💻 **Programming**: Skilled in **Java, Python, C++, and JavaScript** with hands-on experience in security-focused development.  
+- 📊 **Database Management**: Experienced with **Oracle SQL, PL/SQL, and MongoDB** for relational and NoSQL database systems.  
+- 🌐 **Web Development**: Familiar with **HTML, CSS, and JavaScript** for full-stack development.  
+- 🤖 **AI for Cybersecurity**: Exploring **machine learning applications in security** and automation.  
 
-### 🚀 Current Project: C++ Repository
+---
 
-I am currently working on a Capstone project
+## 🚀 **Current Projects**  
 
-### 📚 Technologies & Tools
+- 🛠 **C++ Security Toolkit**: Developing a **repository for cybersecurity utilities using C++**.  
+- 🖥️ **IoT Security with MicroPython & Raspberry Pi**: Experimenting with **embedded security solutions**.  
+- 📱 **Web Scraping & Cyber Threat Intelligence**: Building **data-driven security tools** for threat analysis.  
 
-My skill set includes a wide range of technologies and tools:
+---
 
-- 🖥️ **Programming Languages**: Java, Python, C++, HTML, SQL, R
-- 📊 **Database Management**: Oracle SQL, PL/SQL, MongoDB
-- 🌐 **Web Development**: HTML, CSS, JavaScript
-- 💼 **Version Control**: Git
-- 📊 **Data Analysis**: Pandas, Matplotlib
+## 📚 **Technologies & Tools**  
 
+💻 **Programming Languages**  
+✔ Java | Python | C++ | JavaScript | HTML | SQL  
 
-### 📫 Contact Me
+📊 **Databases**  
+✔ Oracle SQL | PL/SQL | MongoDB  
 
-Feel free to reach out to me through these channels:
+🔐 **Cybersecurity & Networking**  
+✔ Ethical Hacking | Penetration Testing | Security Automation | Network Security | Firewalls | VPNs  
 
-- 📧 Email: [vml152@uowmail.edu.au]
-- 💼 LinkedIn: [Ved Lomber](https://www.linkedin.com/in/ved-lomber-8150a1214/)
+📈 **Data Science & Analysis**  
+✔ Pandas | Matplotlib | Machine Learning for Security  
 
+🎓 **Version Control & DevOps**  
+✔ Git | GitHub | Docker  
 
-### 🌱 Always Learning
+---
 
-Learning is a lifelong journey for me, and I continue to explore new technologies and deepen my expertise in the programming world.
+## 🎓 **Education**  
 
+### 📚 **Master of Cyber Security Analysis & Master of Intelligence**  
+**Macquarie University** (Ongoing)  
 
-- 📚 **Bachelor of Computer Science (Cyber Security)**
-  - **University of Wollongong**
-  - **GPA: 4.80**
-  - **Honors and Awards: Club Liverpool Community Scholarship Recipient 2023**
-  - **Relevant Subjects:**
-    - System Analysis (Distinction)
-    - Networks and Communications (Credit)
-    - Programming Fundamentals (Credit)
-    - Problem Solving (Credit)
-    - Object Oriented Design and Programming (Credit)
-    - Computing and Cyber Security Fundamentals (Credit)
-    - Human Computer Interaction (Credit)
+### 🎓 **Bachelor of Computer Science (Cyber Security)**  
+**University of Wollongong** (Completed 2024)  
+**GPA: 5.44**  
 
-### 🤝 Let's Collaborate
+📌 **Relevant Subjects**:  
+✔ Cybersecurity (High Distinction)  
+✔ Ethical Hacking (Distinction)  
+✔ Artificial Intelligence for Cybersecurity (Distinction)  
+✔ Networks & Communications (Credit)  
+✔ System Security (Credit)  
 
-I'm open to collaborating on projects related to cybersecurity, programming, or anything that excites me. If you have an interesting project or idea, don't hesitate to get in touch.
+---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, where you'll find projects related to my diverse programming journey. Let's create amazing things together! 🚀
+## 📧 **Contact Me**  
 
-![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Civilisedfire453&show_icons=true&theme=dark)
+📧 **Email**: [vedlomber@gmail.com](mailto:vedlomber@gmail.com)  
+🏢 **LinkedIn**: [Ved Lomber](https://www.linkedin.com/in/ved-lomber-8150a1214/)  
+🖥️ **GitHub**: [Civilisedfire453](https://github.com/Civilisedfire453)  
 
-<!--
-Optional: Add more badges or custom sections here if desired.
--->
+---
+
+## 🌱 **Always Learning**  
+
+I believe that learning never stops! I’m constantly exploring **cybersecurity, AI for security, ethical hacking, and automation** to expand my skills.  
+
+---
+
+## 🤝 **Let's Collaborate**  
+
+I'm open to **collaborating on projects related to cybersecurity, automation, AI for security, and penetration testing**. If you have an exciting project, let's connect and build something impactful!  
+
+---
+
+![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Civilisedfire453&show_icons=true&theme=dark)  
+
+<!-- Optional: Add more badges or custom sections if needed. -->
