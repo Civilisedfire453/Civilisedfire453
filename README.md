@@ -1,86 +1,99 @@
-# **Ved Lomber**  
+# 🛡️ Ved Lomber
 
-## 👋 Hello, World!  
+## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm **Ved Lomber**, a **cybersecurity enthusiast and programmer**, currently pursuing a **Master of Cyber Security Analysis and Intelligence at Macquarie University**. I have a **strong foundation in software development, cybersecurity, and database management** and love working on projects that **combine security, automation, and problem-solving**.  
+Welcome to my GitHub! I'm **Ved Lomber**, a cybersecurity and intelligence student currently pursuing a **dual Master’s degree in Cyber Security Analysis and Intelligence at Macquarie University**, with a strong technical foundation from a **Bachelor of Computer Science (Cyber Security) at the University of Wollongong**.
 
----
-
-## 🌟 **What I Do**  
-
-- 🔐 **Cybersecurity**: Passionate about **ethical hacking, penetration testing, and security automation**.  
-- 💻 **Programming**: Skilled in **Java, Python, C++, and JavaScript** with hands-on experience in security-focused development.  
-- 📊 **Database Management**: Experienced with **Oracle SQL, PL/SQL, and MongoDB** for relational and NoSQL database systems.  
-- 🌐 **Web Development**: Familiar with **HTML, CSS, and JavaScript** for full-stack development.  
-- 🤖 **AI for Cybersecurity**: Exploring **machine learning applications in security** and automation.  
+I’m passionate about the intersection of national security, network infrastructure, and threat intelligence — and I enjoy building tools that combine programming, data analysis, and security research.
 
 ---
 
-## 🚀 **Current Projects**  
+## 🌟 What I Do
 
-- 🛠 **C++ Security Toolkit**: Developing a **repository for cybersecurity utilities using C++**.  
-- 🖥️ **IoT Security with MicroPython & Raspberry Pi**: Experimenting with **embedded security solutions**.  
-- 📱 **Web Scraping & Cyber Threat Intelligence**: Building **data-driven security tools** for threat analysis.  
-
----
-
-## 📚 **Technologies & Tools**  
-
-💻 **Programming Languages**  
-✔ Java | Python | C++ | JavaScript | HTML | SQL  
-
-📊 **Databases**  
-✔ Oracle SQL | PL/SQL | MongoDB  
-
-🔐 **Cybersecurity & Networking**  
-✔ Ethical Hacking | Penetration Testing | Security Automation | Network Security | Firewalls | VPNs  
-
-📈 **Data Science & Analysis**  
-✔ Pandas | Matplotlib | Machine Learning for Security  
-
-🎓 **Version Control & DevOps**  
-✔ Git | GitHub | Docker  
+- 🔐 **Cybersecurity**: Penetration testing, ethical hacking, security automation, and OSINT.
+- 💻 **Programming**: Python, C++, Java, JavaScript – focused on secure and efficient systems.
+- 🌐 **Infrastructure & Networking**: TCP/IP, DNS, VPNs, firewalls, and Wireshark.
+- 📊 **Threat Intelligence & Visualisation**: Data-driven tools for cyber threat modelling.
+- 🤖 **AI for Security**: Exploring ML applications in cybersecurity and automation.
 
 ---
 
-## 🎓 **Education**  
+## 🚀 Featured Projects
 
-### 📚 **Master of Cyber Security Analysis & Master of Intelligence**  
-**Macquarie University** (Ongoing)  
+- 🛠 **C++ Security Toolkit**  
+  Command-line utilities for scanning, encoding, and testing built in modern C++.
 
-### 🎓 **Bachelor of Computer Science (Cyber Security)**  
-**University of Wollongong** (Completed 2024)  
-**GPA: 5.44**  
+- 📡 **IoT Security with MicroPython & Raspberry Pi**  
+  Experimental lab simulating attacks and defences in low-power embedded environments.
 
-📌 **Relevant Subjects**:  
-✔ Cybersecurity (High Distinction)  
-✔ Ethical Hacking (Distinction)  
-✔ Artificial Intelligence for Cybersecurity (Distinction)  
-✔ Networks & Communications (Credit)  
-✔ System Security (Credit)  
+- 🌍 **OSINT Scraper for Threat Intel**  
+  Python-based tool to scrape and analyse publicly available indicators of compromise (IOCs).
 
 ---
 
-## 📧 **Contact Me**  
+## 🧰 Technologies & Tools
 
-📧 **Email**: [vedlomber@gmail.com](mailto:vedlomber@gmail.com)  
-🏢 **LinkedIn**: [Ved Lomber](https://www.linkedin.com/in/ved-lomber-8150a1214/)  
-🖥️ **GitHub**: [Civilisedfire453](https://github.com/Civilisedfire453)  
+**Languages:**  
+`Python` · `C++` · `Java` · `JavaScript` · `SQL` · `HTML/CSS`
+
+**Databases:**  
+`Oracle SQL` · `PL/SQL` · `MongoDB`
+
+**Cybersecurity & Networking:**  
+`Wireshark` · `Nmap` · `Burp Suite` · `Metasploit` · `TCP/IP` · `Firewalls` · `VPNs`
+
+**Data & Automation:**  
+`Pandas` · `Matplotlib` · `Scikit-learn` · `Web Scraping`
+
+**Workflow & DevOps:**  
+`Git` · `GitHub` · `Linux CLI` · `Docker`
 
 ---
 
-## 🌱 **Always Learning**  
+## 🎓 Education
 
-I believe that learning never stops! I’m constantly exploring **cybersecurity, AI for security, ethical hacking, and automation** to expand my skills.  
+### 🎓 Macquarie University  
+**Master of Cyber Security Analysis & Master of Intelligence** (2025–2026)  
+· MQ Cyber Collective (MQCyber), MACS  
+· Global Security Study Tours – UK 🇬🇧 & US 🇺🇸  
+
+### 🎓 University of Wollongong  
+**Bachelor of Computer Science (Cyber Security)** – Graduated 2024  
+GPA: 5.44 / 7  
+
+📌 **Achievements & Activities**:  
+- 🏅 **New Colombo Plan Scholar – China 🇨🇳**  
+ Awarded the Australian Government's flagship scholarship to study and research cybersecurity in China.  
+- 🏆 Club Liverpool Community Scholarship Recipient  
+- 🤝 Senior Mentor – UOW Mentorship Program  
+- 📚 Key Subjects: Ethical Hacking (D), AI for Cybersecurity (D), Networks (Cr)
 
 ---
 
-## 🤝 **Let's Collaborate**  
+## 📫 Contact
 
-I'm open to **collaborating on projects related to cybersecurity, automation, AI for security, and penetration testing**. If you have an exciting project, let's connect and build something impactful!  
+📧 [vedlomber@gmail.com](mailto:vedlomber@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ved-lomber-8150a1214/)  
+💻 [GitHub](https://github.com/Civilisedfire453)
 
 ---
 
-![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Civilisedfire453&show_icons=true&theme=dark)  
+## 🌱 Always Learning
 
-<!-- Optional: Add more badges or custom sections if needed. -->
+I'm continuously exploring ways to apply cybersecurity, threat intelligence, and infrastructure defence to real-world problems — and I believe in learning by building.
+
+---
+
+## 🤝 Let’s Collaborate
+
+Open to collaboration on:
+- 🔐 Cybersecurity Tools & Training
+- 🌍 Threat Intelligence & OSINT Automation
+- 🤖 AI for Security
+- ⚙️ Infrastructure Hardening Projects
+
+Let's connect and build something impactful together.
+
+---
+
+![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Civilisedfire453&show_icons=true&theme=dark)
